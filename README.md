@@ -2,6 +2,8 @@
 
 This is an simple example for use [crossfilter](http://square.github.io/crossfilter/) and [React](https://facebook.github.io/react/index.html) in an [flux](https://facebook.github.io/flux/) environment with [alt](http://alt.js.org/), all of them builded with [webpack](https://webpack.github.io/).
 
+You can view the experiment runing [in a block](http://bl.ocks.org/proclamo/371dcca64a217154c956).
+
 ## Install
 
 To install simply run:
