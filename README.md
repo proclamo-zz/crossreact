@@ -1,6 +1,6 @@
 # TMB (Too many buzzwords)
 
-This is an simple example for use [crossfilter]() and [React]() in an [flux]() environment with [alt](), builded with [webpack]();
+This is an simple example for use [crossfilter](http://square.github.io/crossfilter/) and [React](https://facebook.github.io/react/index.html) in an [flux](https://facebook.github.io/flux/) environment with [alt](http://alt.js.org/), all of them builded with [webpack](https://webpack.github.io/).
 
 ## Install
 
@@ -13,7 +13,7 @@ bower install
 
 ## Development
 
-Package.json is configured to run webpack-dev-server in watch mode. Any changes will reload the browser (you need to have installed in your computer webpack and webpack-dev-server)
+The package.json file is configured to run webpack-dev-server in watch mode. Any changes will reload the browser (you need to have installed in your computer webpack and webpack-dev-server)
 
 ```
 npm run dev
