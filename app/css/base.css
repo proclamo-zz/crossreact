@@ -1,0 +1,30 @@
+body {
+	background-color: aliceblue;
+	font-size: 18px;
+}
+
+#main {
+	margin: 0px auto;
+	width: 500px;
+}
+
+#main div {
+	margin-top: 20px;
+}
+
+label {
+	margin-right: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	margin: 20px;
+	padding: 3px;
+}
+
+ul li:first {
+	font-weight: bold;
+}
